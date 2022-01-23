@@ -1,9 +1,10 @@
 <h2>SOCIAL NETWORK AD</h2>
 
 <h3>What is Decision tree?<h3>
-Decision Tree algorithm is a supervised learning algorithm. Unlike other supervised learning algorithms, decision tree algorithm can be used for solving regression and classification problems too. The general motive of using Decision Tree is to create a training model which can use to predict class or value of target variables by learning decision rules inferred from prior data (training data).
+  
+Decision Tree algorithm is a supervised learning algorithm. Unlike other supervised learning algorithms, decision tree algorithm can be used for solving regression and classification problems too. The general motive of using Decision Tree is to create a training model which can use to predict class or value of target variables by learning decision rules inferred from prior data (training data).</br><h3></h3>
 
---------------------------------------------------MODEL 1-----------------------------------------------------------------</br>
+--------------------------------------------------MODEL 1----------------------------------------------------------</br>
   
 STEP 1:- Imoprt the required Library {numpy,pandas,seaborn,matplotlib etc].</br>
 
@@ -24,7 +25,7 @@ STEP8:- Splitting of Datset into Training and Test Dataset</br>
 
 STEP9:- Feature Scaling only on Continious variable. We only scale Continious variable[Numeric varible] as there is no need to scale categorical variable.</br> 
 
-<h4>NOTE:- Decision tree can handle both regression as well as classification.</h4></br></br>
+<h4>NOTE:- Decision tree can handle both regression as well as classification.</h4></br>
 
 STEP10:- As the dataset contains target variable as categorical value[purchased] we will be using DecisionTreeClassifier model.</br>
 
@@ -49,5 +50,5 @@ STEP18:- Predict the model</br>
 STEP19:- Visulisation
 
 
-MOdel must be simple and generic in nature
+<h3>Model must be simple and generic in nature</h3>
  
